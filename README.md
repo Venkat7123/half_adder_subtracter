@@ -67,13 +67,11 @@ endmodule
 
 **RTL Schematic**
 
-![Screenshot 2024-11-29 112933](https://github.com/user-attachments/assets/c6fe8f4b-c65c-4dd1-8b2f-ef9e1cb1971b)
-
+![image](https://github.com/user-attachments/assets/f7a80b13-7627-43c0-970f-1b0093c3cc75)
 
 **Output/TIMING Waveform**
 
-![image](https://github.com/user-attachments/assets/f7a80b13-7627-43c0-970f-1b0093c3cc75)
-
+![Screenshot 2024-11-29 112933](https://github.com/user-attachments/assets/c6fe8f4b-c65c-4dd1-8b2f-ef9e1cb1971b)
 **Result:**
 Thus the given logic functions are implemented using and their operations are
 verified using Verilog programming
